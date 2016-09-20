@@ -1,4 +1,4 @@
-(a) 2
+(a) 3
 (b) Thu Sep 15 10:29:34 2016
 (c) BasicWeapon.java:    1 time
     RoleGame.java:       1 time
