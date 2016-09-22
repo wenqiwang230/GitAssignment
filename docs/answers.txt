@@ -1,14 +1,15 @@
 (a) 3
-(b) Thu Sep 15 10:29:34 2016
+(b) Thu Sep 15 10:29:34 2016 
 (c) BasicWeapon.java:    1 time
     RoleGame.java:       1 time
     Sword.java:          2 times
     Weapon.java:         1 time
     WeaponFactory.java:  1 time
+    Note: This is before I modified the codes.
 (d) git status shows Displays paths that have differences between the index file and 
     the current HEAD commit, paths that have differences between the working tree and 
     the index file, and paths in the working tree that are not tracked by Git.
     git log is used to view the Commit History.
-(e) git log RoleGame.java
+(e) git log RoleGame.java (RoleGmae.java is in the current directory)
 (f) git log --grep file
 (g) git log --author Alice --since 2016-09-01 --until 2016-09-16
